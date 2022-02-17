@@ -1,2 +1,2 @@
-# 19.2.3-
+# 19.2.3
 Positive Tests for the Calculator App
