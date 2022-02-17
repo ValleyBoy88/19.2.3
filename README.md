@@ -1,5 +1,5 @@
 # 19.2.3
-Positive Tests for the Calculator App
+# Positive Tests for the Calculator App
 
 Два позитивных теста для каждого метода калькулятора:
 
